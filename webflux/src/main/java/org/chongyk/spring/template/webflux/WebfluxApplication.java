@@ -14,6 +14,6 @@ public class WebfluxApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        log.info("Hello Toto");
+        log.info("toto");
     }
 }
